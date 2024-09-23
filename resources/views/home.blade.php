@@ -15,7 +15,7 @@
         <div class="row">
             <div class="col-12 text-center fw-bold">
                 <h1>
-                    Hello World!!!
+                    {{ $message }}
                 </h1>
             </div>
         </div>
